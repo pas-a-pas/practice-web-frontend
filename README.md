@@ -1,5 +1,21 @@
 # practice-web-frontend
 
+
+## api-server
+API server to provide web APIs for react-app-sample.
+The project is created using express-generator.
+```
+$ npm install -g express-generator 
+$ express api-server
+$ cd api-server
+$ npm install
+``` 
+To run the server, 
+```
+$ npm start
+```
+
+
 ## react-app-sample
 The react-app-sample is created using npx.
 ```
