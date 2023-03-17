@@ -23,7 +23,7 @@ $ npx create-react-app react-app-sample
 ```
 To run the app, 
 ```
-$ cd <path-to-react-app-sample>
+$ cd react-app-sample
 $ npm start
 ```
 then it opens a browser and app is starting.
